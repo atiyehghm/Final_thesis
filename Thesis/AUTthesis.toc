@@ -17,7 +17,11 @@
 \contentsline {subsubsection}{\numberline {2-1-3-5}تعریف تابع خطا}{7}{subsubsection.2.1.3.5}%
 \contentsline {subsubsection}{\numberline {2-1-3-6}تغییر پارامتر تابع خطا}{8}{subsubsection.2.1.3.6}%
 \contentsline {subsubsection}{\numberline {2-1-3-7}فرآیند یادگیری}{9}{subsubsection.2.1.3.7}%
-\contentsline {chapter}{کتاب‌نامه}{11}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{14}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{17}{appendix*.6}%
+\contentsline {subsubsection}{\numberline {2-1-3-8}فرآیند تولید نمونه‌ی جدید}{10}{subsubsection.2.1.3.8}%
+\contentsline {subsection}{\numberline {2-1-4}انواع معماری مدل‌های پخشی نویززدای احتمالاتی}{10}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2-1-4-1}مدل پخشی نهان}{11}{subsubsection.2.1.4.1}%
+\contentsline {subsubsection}{\numberline {2-1-4-2}مدل پخشی مبتی بر مبدل‌}{13}{subsubsection.2.1.4.2}%
+\contentsline {chapter}{کتاب‌نامه}{15}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{17}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{20}{appendix*.6}%
 \contentsfinish 

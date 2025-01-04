@@ -3,59 +3,55 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: AUTthesis.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
-A level-1 auxiliary file: chapter3.aux
-A level-1 auxiliary file: chapter4.aux
-A level-1 auxiliary file: chapter5.aux
-A level-1 auxiliary file: chapter6.aux
 The style file: plain-fa.bst
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 Database file #1: references.bib
 Warning--entry type for "CiteDrive2022" isn't style-file defined
---line 131 of file references.bib
+--line 122 of file references.bib
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 20 entries,
+You've used 8 entries,
             2546 wiz_defined-function locations,
-            736 strings with 9038 characters,
-and the built_in function-call counts, 7948 in all, are:
-= -- 695
-> -- 447
-< -- 3
-+ -- 178
-- -- 156
-* -- 535
-:= -- 1256
-add.period$ -- 62
-call.type$ -- 20
-change.case$ -- 136
+            672 strings with 6846 characters,
+and the built_in function-call counts, 3531 in all, are:
+= -- 330
+> -- 138
+< -- 4
++ -- 54
+- -- 46
+* -- 210
+:= -- 497
+add.period$ -- 25
+call.type$ -- 8
+change.case$ -- 47
 chr.to.int$ -- 0
-cite$ -- 20
-duplicate$ -- 244
-empty$ -- 478
-format.name$ -- 156
-if$ -- 1830
+cite$ -- 8
+duplicate$ -- 137
+empty$ -- 258
+format.name$ -- 46
+if$ -- 858
 int.to.chr$ -- 0
-int.to.str$ -- 20
-missing$ -- 200
-newline$ -- 185
-num.names$ -- 40
-pop$ -- 130
+int.to.str$ -- 8
+missing$ -- 77
+newline$ -- 77
+num.names$ -- 16
+pop$ -- 60
 preamble$ -- 1
-purify$ -- 116
+purify$ -- 39
 quote$ -- 0
-skip$ -- 187
+skip$ -- 117
 stack$ -- 0
-substring$ -- 355
-swap$ -- 51
-text.length$ -- 3
+substring$ -- 223
+swap$ -- 53
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 80
+type$ -- 32
 warning$ -- 0
-while$ -- 59
-width$ -- 22
-write$ -- 279
+while$ -- 30
+width$ -- 9
+write$ -- 115
 (There was 1 warning)
