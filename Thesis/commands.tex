@@ -23,6 +23,7 @@
 \usepackage{algorithm}
 \usepackage{algpseudocode}
 \usepackage{amsmath}
+\usepackage{titlesec}
 
 
 % بسته‌ و دستوراتی برای ایجاد لینک‌های رنگی با امکان جهش
@@ -96,12 +97,13 @@
 \setlength{\cftaftertoctitleskip}{-1em}
 \setlength{\cftafterlottitleskip}{-1em}
 \setlength{\cftafterloftitleskip}{-1em}
-%\makeatletter
+\setcounter{tocdepth}{5}
+\makeatletter
 %\renewcommand{\l@chapter}{\@dottedtocline{1}{1em\bfseries}{1em}}
 %\renewcommand{\l@section}{\@dottedtocline{2}{2em}{2em}}
 %\renewcommand{\l@subsection}{\@dottedtocline{3}{3em}{3em}}
-%\renewcommand{\l@subsubsection}{\@dottedtocline{4}{4em}{4em}}
-%\makeatother
+\renewcommand{\l@subsubsection}{\@dottedtocline{4}{4em}{4em}}
+\makeatother
 
 
 \newcommand\tocheading{\par عنوان\hfill صفحه \par}
@@ -263,3 +265,18 @@
 %\renewcommand\cftsecleader{\cftdotfill{\cftdotsep}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+% Define \subsubsubsection
+\titleclass{\subsubsubsection}{straight}[\subsubsection]
+\newcounter{subsubsubsection}[subsubsection]
+\renewcommand{\thesubsubsubsection}{\thesubsubsection-\arabic{subsubsubsection}}
+\titleformat{\subsubsubsection}
+{\normalfont\normalsize\bfseries}{\thesubsubsubsection}{1em}{}
+\titlespacing*{\subsubsubsection}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\makeatletter
+\newcommand{\l@subsubsubsection}{\@dottedtocline{5}{5em}{5em}} 
+\makeatother

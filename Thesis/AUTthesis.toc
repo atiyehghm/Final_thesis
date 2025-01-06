@@ -27,4 +27,8 @@
 \contentsline {subsubsection}{\numberline {2-2-2-1}گسسته‌سازی}{18}{subsubsection.2.2.2.1}%
 \contentsline {subsubsection}{\numberline {2-2-2-2}کاهش توکن‌ها}{18}{subsubsection.2.2.2.2}%
 \contentsline {subsubsection}{\numberline {2-2-2-3}استفاده‌ از حافظه‌ی پنهان}{18}{subsubsection.2.2.2.3}%
+\contentsline {subsubsubsection}{\numberline {2-2-2-3-1}روش استفاده از حافظه‌ی پنهان عمیق}{19}{subsubsubsection.2.2.2.3.1}%
+\contentsline {chapter}{کتاب‌نامه}{22}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{25}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{28}{appendix*.6}%
 \contentsfinish 

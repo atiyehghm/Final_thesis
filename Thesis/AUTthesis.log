@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  6 JAN 2025 15:22
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  6 JAN 2025 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -287,7 +287,19 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip93
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip94
+\aftertitleunit=\skip95
+\ttl@plus=\dimen175
+\ttl@minus=\dimen176
+\ttl@toksa=\toks34
+\titlewidth=\dimen177
+\titlewidthlast=\dimen178
+\titlewidthfirst=\dimen179
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -336,7 +348,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count288
 )
-\@linkdim=\dimen175
+\@linkdim=\dimen180
 \Hy@linkcounter=\count289
 \Hy@pagecounter=\count290
 
@@ -369,7 +381,7 @@ Package hyperref Info: Bookmarks ON on input line 4425.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen176
+\XeTeXLinkMargin=\dimen181
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -379,8 +391,8 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count293
-\Field@Width=\dimen177
-\Fld@charsize=\dimen178
+\Field@Width=\dimen182
+\Fld@charsize=\dimen183
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -406,7 +418,7 @@ File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box56
+\pdfm@box=\box57
 \c@Hy@AnnotLevel=\count297
 \HyField@AnnotCount=\count298
 \Fld@listcount=\count299
@@ -425,7 +437,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip94
+\Hy@SectionHShift=\skip96
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 Package cleveref Info: `hyperref' support loaded on input line 2370.
@@ -449,15 +461,15 @@ e 7852.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip95
-\f@nch@O@elh=\skip96
-\f@nch@O@erh=\skip97
-\f@nch@O@olh=\skip98
-\f@nch@O@orh=\skip99
-\f@nch@O@elf=\skip100
-\f@nch@O@erf=\skip101
-\f@nch@O@olf=\skip102
-\f@nch@O@orf=\skip103
+\f@nch@headwidth=\skip97
+\f@nch@O@elh=\skip98
+\f@nch@O@erh=\skip99
+\f@nch@O@olh=\skip100
+\f@nch@O@orh=\skip101
+\f@nch@O@elf=\skip102
+\f@nch@O@erf=\skip103
+\f@nch@O@olf=\skip104
+\f@nch@O@orf=\skip105
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -472,27 +484,26 @@ Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count301
-\mult@box=\box57
-\multicol@leftmargin=\dimen179
+\mult@box=\box58
+\multicol@leftmargin=\dimen184
 \c@unbalance=\count302
 \c@collectmore=\count303
 \doublecol@number=\count304
 \multicoltolerance=\count305
 \multicolpretolerance=\count306
-\full@width=\dimen180
-\page@free=\dimen181
-\premulticols=\dimen182
-\postmulticols=\dimen183
-\multicolsep=\skip104
-\multicolbaselineskip=\skip105
-\partial@page=\box58
-\last@line=\box59
-\maxbalancingoverflow=\dimen184
-\mult@rightbox=\box60
-\mult@grightbox=\box61
-\mult@firstbox=\box62
-\mult@gfirstbox=\box63
-\@tempa=\box64
+\full@width=\dimen185
+\page@free=\dimen186
+\premulticols=\dimen187
+\postmulticols=\dimen188
+\multicolsep=\skip106
+\multicolbaselineskip=\skip107
+\partial@page=\box59
+\last@line=\box60
+\maxbalancingoverflow=\dimen189
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@firstbox=\box63
+\mult@gfirstbox=\box64
 \@tempa=\box65
 \@tempa=\box66
 \@tempa=\box67
@@ -528,20 +539,21 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box97
 \@tempa=\box98
 \@tempa=\box99
+\@tempa=\box100
 \c@minrows=\count307
 \c@columnbadness=\count308
 \c@finalcolumnbadness=\count309
-\last@try=\dimen185
-\multicolovershoot=\dimen186
-\multicolundershoot=\dimen187
-\mult@nat@firstbox=\box100
-\colbreak@box=\box101
+\last@try=\dimen190
+\multicolovershoot=\dimen191
+\multicolundershoot=\dimen192
+\mult@nat@firstbox=\box101
+\colbreak@box=\box102
 \mc@col@check@num=\count310
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks34
-\verbatim@line=\toks35
+\every@verbatim=\toks35
+\verbatim@line=\toks36
 \verbatim@in@stream=\read2
 )
 \@indexfile=\write3
@@ -573,7 +585,7 @@ Package: expl3 2023-02-22 L3 programming layer (loader)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 \g__graphics_track_int=\count311
-\l__pdf_internal_box=\box102
+\l__pdf_internal_box=\box103
 \g__pdf_backend_object_int=\count312
 \g__pdf_backend_annotation_int=\count313
 \g__pdf_backend_link_int=\count314
@@ -596,9 +608,9 @@ X
 \l__fontspec_emdef_int=\count323
 \l__fontspec_strong_int=\count324
 \l__fontspec_strongdef_int=\count325
-\l__fontspec_tmpa_dim=\dimen188
-\l__fontspec_tmpb_dim=\dimen189
-\l__fontspec_tmpc_dim=\dimen190
+\l__fontspec_tmpa_dim=\dimen193
+\l__fontspec_tmpb_dim=\dimen194
+\l__fontspec_tmpc_dim=\dimen195
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -682,18 +694,18 @@ n plain TeX and LaTeX
 ****************************************************
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks36
-\@bidi@emptytoks=\toks37
+\@bidi@envbody=\toks37
+\@bidi@emptytoks=\toks38
 \bidi@poscount=\count363
 \bidi@tempcountb=\count364
-\bidi@temptoksa=\toks38
-\bidi@temptoksb=\toks39
+\bidi@temptoksa=\toks39
+\bidi@temptoksb=\toks40
 \bidi@dummies=\count365
-\bidi@are@these@correct=\toks40
-\bidi@toks@lista=\toks41
-\bidi@toks@listb=\toks42
+\bidi@are@these@correct=\toks41
+\bidi@toks@lista=\toks42
+\bidi@toks@listb=\toks43
 \bidi@stack@length=\count366
-\bidi@empty@stack=\toks43
+\bidi@empty@stack=\toks44
 \bidi@looprepeat@depth=\count367
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/zref/zref-abspage.sty
@@ -713,8 +725,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks44
-\XKV@tempa@toks=\toks45
+\XKV@toks=\toks45
+\XKV@tempa@toks=\toks46
 )
 \XKV@depth=\count369
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -724,14 +736,14 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks46
+\bidi@n@everypar=\toks47
 \bidi@column@check@number=\count370
 
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
 \c@footdir@label=\count371
-\footdir@toks=\toks47
+\footdir@toks=\toks48
 )
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -772,6 +784,10 @@ kage for XeTeX engine
 )
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def
 File: fancyhdr-xetex-bidi.def 2018/02/15 v0.7 bidi adaptations for fancyhdr pac
+kage for XeTeX engine
+)
+(/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
+File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
 kage for XeTeX engine
 )
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/titletoc-xetex-bidi.def
@@ -825,8 +841,8 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * 
 ****************************************************
 \xepersian@tcl=\count373
-\xepersian@ilg=\dimen191
-\xepersian@strutilg=\dimen192
+\xepersian@ilg=\dimen196
+\xepersian@strutilg=\dimen197
 
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersia
 n.def
@@ -925,7 +941,7 @@ n-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 72.
+(Font)              scaled to size 14.39996pt on input line 73.
 
 Package fontspec Info: Font family 'TimesNewRoman.ttf(0)' created for font
 (fontspec)             'Times New Roman.ttf' with options [Ligatures=TeX].
@@ -937,7 +953,7 @@ Package fontspec Info: Font family 'TimesNewRoman.ttf(0)' created for font
 (fontspec)             Roman.ttf]/OT:language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-LaTeX Info: Redefining \latinfont on input line 73.
+LaTeX Info: Redefining \latinfont on input line 74.
 
 Package fontspec Info: Font family 'IranNastaliq.ttf(0)' created for font
 (fontspec)             'IranNastaliq.ttf' with options
@@ -969,9 +985,10 @@ n-tex-text;"
 \c@definition=\count374
 
 
-Package amsthm Warning: Unknown theoremstyle `theorem' on input line 129.
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 131.
 
 \c@savepage=\count375
+\c@subsubsubsection=\count376
 )
 
 LaTeX Warning: Unused global option(s):
@@ -1466,37 +1483,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17]
-! Undefined control sequence.
-<recently read> \subsubsubsection 
-                                  
-l.340 \subsubsubsection
-                       {روش استفاده از حافظه‌ی پنهان عمیق}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Reference `deep1' on page 18 undefined on input line 343.
-
-
-LaTeX Warning: Reference `footdir@126' on page 18 undefined on input line 343.
-
-
-LaTeX Warning: Reference `footdir@127' on page 18 undefined on input line 343.
-
-
-LaTeX Warning: Reference `footdir@128' on page 18 undefined on input line 343.
-
-
-LaTeX Warning: Reference `footdir@129' on page 18 undefined on input line 343.
-
-
-LaTeX Warning: Reference `deep2' on page 18 undefined on input line 343.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--345
+Underfull \hbox (badness 10000) in paragraph at lines 336--340
 [][]
  []
 
@@ -1509,8 +1496,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
-File: deepcache1.png Graphic file (type bmp)
-<deepcache1.png>
+
+Package hyperref Warning: bookmark level for unknown subsubsubsection defaults 
+to 0.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -1519,63 +1507,66 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.358 ش
-       کل \ref{deep2} کلیت این روش را نشان‌ می‌دهد. در این شکل بلوک‌های $D_i...
+l.342 ر
+       وش استفاده از حافظه‌ی پنهان عمیق\cite{ma2024deepcache} بر مبنای یک مش...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-LaTeX Warning: Reference `deep2' on page 19 undefined on input line 358.
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
+[][]
+ []
 
+File: deepcache1.png Graphic file (type bmp)
+<deepcache1.png>
 
-LaTeX Warning: Reference `footdir@131' on page 19 undefined on input line 358.
+! LaTeX Error: There's no line here to end.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.359 ش
+       کل \ref{deep2} کلیت این روش را نشان‌ می‌دهد. در این شکل بلوک‌های $D_i...
 
-LaTeX Warning: Reference `footdir@132' on page 19 undefined on input line 358.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no   (U+00A0) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
 File: deepcache2.png Graphic file (type bmp)
 <deepcache2.png>
-! Extra }, or forgotten \endgroup.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.369 \end{figure}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! You can't use `\vadjust' in internal vertical mode.
-\end@float ...nalty \@floatpenalty \else \vadjust 
-                                                  {\penalty -\@Miv \vbox {}\...
-l.369 \end{figure}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-LaTeX Warning: Reference `footdir@133' on page 19 undefined on input line 371.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-LaTeX Warning: Reference `footdir@134' on page 19 undefined on input line 371.
+[20])
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-LaTeX Warning: Reference `deep1' on page 19 undefined on input line 376.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-
-LaTeX Warning: Reference `footdir@135' on page 19 undefined on input line 376.
-
-
-LaTeX Warning: Reference `footdir@136' on page 19 undefined on input line 376.
-
-) (./AUTthesis.bbl
+[21] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1584,15 +1575,40 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 2.
 
-)
+[22
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
 \openout2 = `dicfa2en.aux'.
 
  (./dicfa2en.tex
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+[25
 
-Package multicol Warning: multicols* inside a box does not make sense.
-(multicol)                Going to balance anyway on input line 7.
 
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 123--123
 [][]\TU/BNazanin.ttf(0)/b/n/12 مدل پخشی نویززدای احتمالاتی[]
  []
@@ -1606,7 +1622,28 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26]
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27])
 \openout2 = `dicen2fa.aux'.
 
  (./dicen2fa.tex
@@ -1629,25 +1666,46 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-) (./en_title.tex
-File: en-logo.png Graphic file (type bmp)
-<en-logo.png>
+[28
+
+
+
+
+]
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29]
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
 )
 
-! LaTeX Error: \begin{figure} on input line 360 ended by \end{document}.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./dicfa2en.aux)
-(./dicen2fa.aux))
+[30] (./en_title.tex
+File: en-logo.png Graphic file (type bmp)
+<en-logo.png>
+ [31
+
+
+]) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux)
+(./dicfa2en.aux) (./dicen2fa.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1658,54 +1716,15 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: B62B3C722F4A3C85BAC270C3F2C780C2;2643.
-! You can't use `\end' in internal vertical mode.
-\enddocument ...cument/end}\deadcycles \z@ \@@end 
-                                                  
-l.83 \end{document}
-                   
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: \begin{figure} on input line 360 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.83 \end{document}
-                   
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-)
-! Emergency stop.
-<*> AUTthesis.tex
-                 
-*** (job aborted, no legal \end found)
-
- 
+(rerunfilecheck)             Checksum: AE2A72E03BC35693C519905B177CD75E;6218.
+ ) 
 Here is how much of TeX's memory you used:
- 19090 strings out of 476683
- 380282 string characters out of 5804047
- 1905018 words of memory out of 5000000
- 38881 multiletter control sequences out of 15000+600000
+ 19389 strings out of 476683
+ 384753 string characters out of 5804047
+ 1861018 words of memory out of 5000000
+ 39174 multiletter control sequences out of 15000+600000
  525516 words of font info for 120 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,12n,94p,2406b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
-Output written on AUTthesis.pdf (26 pages).
+ 92i,12n,94p,2406b,484s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on AUTthesis.pdf (39 pages).
