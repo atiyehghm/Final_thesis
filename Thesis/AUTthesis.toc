@@ -26,7 +26,5 @@
 \contentsline {subsection}{\numberline {2-2-2}رویکرد‌های کاهش محاسبات هر گام}{17}{subsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2-2-2-1}گسسته‌سازی}{18}{subsubsection.2.2.2.1}%
 \contentsline {subsubsection}{\numberline {2-2-2-2}کاهش توکن‌ها}{18}{subsubsection.2.2.2.2}%
-\contentsline {chapter}{کتاب‌نامه}{19}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{21}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{24}{appendix*.6}%
+\contentsline {subsubsection}{\numberline {2-2-2-3}استفاده‌ از حافظه‌ی پنهان}{18}{subsubsection.2.2.2.3}%
 \contentsfinish 

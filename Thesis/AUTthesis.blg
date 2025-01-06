@@ -13,45 +13,45 @@ Warning--entry type for "CiteDrive2022" isn't style-file defined
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 9 entries,
+You've used 15 entries,
             2546 wiz_defined-function locations,
-            677 strings with 7019 characters,
-and the built_in function-call counts, 3833 in all, are:
-= -- 355
-> -- 156
-< -- 4
-+ -- 61
-- -- 52
-* -- 227
-:= -- 548
-add.period$ -- 28
-call.type$ -- 9
-change.case$ -- 53
+            703 strings with 8089 characters,
+and the built_in function-call counts, 6888 in all, are:
+= -- 625
+> -- 323
+< -- 7
++ -- 127
+- -- 112
+* -- 422
+:= -- 991
+add.period$ -- 46
+call.type$ -- 15
+change.case$ -- 101
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 147
-empty$ -- 275
-format.name$ -- 52
-if$ -- 927
+cite$ -- 15
+duplicate$ -- 256
+empty$ -- 464
+format.name$ -- 112
+if$ -- 1657
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 86
-newline$ -- 86
-num.names$ -- 18
-pop$ -- 66
+int.to.str$ -- 15
+missing$ -- 157
+newline$ -- 140
+num.names$ -- 30
+pop$ -- 123
 preamble$ -- 1
-purify$ -- 44
+purify$ -- 86
 quote$ -- 0
-skip$ -- 124
+skip$ -- 219
 stack$ -- 0
-substring$ -- 228
-swap$ -- 54
-text.length$ -- 4
+substring$ -- 394
+swap$ -- 100
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 36
+type$ -- 60
 warning$ -- 0
-while$ -- 32
-width$ -- 10
-write$ -- 128
+while$ -- 53
+width$ -- 17
+write$ -- 209
 (There was 1 warning)
