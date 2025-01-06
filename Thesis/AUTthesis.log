@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  4 JAN 2025 12:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  6 JAN 2025 10:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1416,7 +1416,6 @@ or  <return>  to continue without it.
 
 File: dit.png Graphic file (type bmp)
 <dit.png>
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1425,7 +1424,81 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14] (./AUTthesis.bbl
+[14]
+File: tri.png Graphic file (type bmp)
+<tri.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `hinton2015distilling' on page 15 undefined on input li
+ne 311.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+
+LaTeX Warning: Citation `ma2024efficient' on page 16 undefined on input line 31
+8.
+
+
+LaTeX Warning: Citation `song2020denoising' on page 16 undefined on input line 
+320.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--324
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 325--329
+[][]
+ []
+
+
+LaTeX Warning: Citation `shang2023post' on page 17 undefined on input line 332.
+
+
+
+LaTeX Warning: Citation `shang2023post' on page 17 undefined on input line 332.
+
+
+
+LaTeX Warning: Citation `li2023q' on page 17 undefined on input line 332.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1434,7 +1507,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 2.
 
-[15
+[19
 
 
 
@@ -1447,7 +1520,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16]
+[20]
 \openout2 = `dicfa2en.aux'.
 
  (./dicfa2en.tex
@@ -1455,7 +1528,7 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-[17
+[21
 
 
 ]
@@ -1480,7 +1553,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18]
+[22]
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
@@ -1493,7 +1566,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19])
+[23])
 \openout2 = `dicen2fa.aux'.
 
  (./dicen2fa.tex
@@ -1516,7 +1589,7 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-[20
+[24
 
 
 
@@ -1534,7 +1607,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21]
+[25]
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
@@ -1548,10 +1621,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[22] (./en_title.tex
+[26] (./en_title.tex
 File: en-logo.png Graphic file (type bmp)
 <en-logo.png>
- [23
+ [27
 
 
 ]) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux)
@@ -1566,15 +1639,15 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 3EAC863D2B2048F5CCB2FE2C3F3C1CD0;2482.
+(rerunfilecheck)             Checksum: 59B5C66C4ABEAAA48DDA9A5885D759E6;3301.
  ) 
 Here is how much of TeX's memory you used:
- 19007 strings out of 476683
- 379049 string characters out of 5804047
- 1858018 words of memory out of 5000000
- 38801 multiletter control sequences out of 15000+600000
+ 19061 strings out of 476683
+ 379799 string characters out of 5804047
+ 1860018 words of memory out of 5000000
+ 38854 multiletter control sequences out of 15000+600000
  525516 words of font info for 120 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,12n,94p,2406b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (31 pages).
+Output written on AUTthesis.pdf (35 pages).

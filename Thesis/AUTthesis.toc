@@ -21,7 +21,12 @@
 \contentsline {subsection}{\numberline {2-1-4}انواع معماری مدل‌های پخشی نویززدای احتمالاتی}{10}{subsection.2.1.4}%
 \contentsline {subsubsection}{\numberline {2-1-4-1}مدل پخشی نهان}{11}{subsubsection.2.1.4.1}%
 \contentsline {subsubsection}{\numberline {2-1-4-2}مدل پخشی مبتی بر مبدل‌}{13}{subsubsection.2.1.4.2}%
-\contentsline {chapter}{کتاب‌نامه}{15}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{17}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{20}{appendix*.6}%
+\contentsline {section}{\numberline {2-2}رویکرد‌های افزایش سرعت}{14}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}رویکرد‌های کاهش تعداد گام‌ها}{16}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2-2-2}رویکرد‌های کاهش محاسبات هر گام}{17}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2-2-2-1}گسسته‌سازی}{18}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2-2-2-2}کاهش توکن‌ها}{18}{subsubsection.2.2.2.2}%
+\contentsline {chapter}{کتاب‌نامه}{19}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{21}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{24}{appendix*.6}%
 \contentsfinish 

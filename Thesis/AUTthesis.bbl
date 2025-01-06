@@ -83,4 +83,14 @@ Song, Yang and Ermon, Stefano.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{xiao2021tackling}
+Xiao, Zhisheng, Kreis, Karsten, and Vahdat, Arash.
+\newblock Tackling the generative learning trilemma with denoising diffusion
+  gans.
+\newblock {\em arXiv preprint arXiv:2112.07804}, 2021.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
