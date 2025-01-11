@@ -5,11 +5,43 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{bolya2022token}
+Bolya, Daniel, Fu, Cheng-Yang, Dai, Xiaoliang, Zhang, Peizhao, Feichtenhofer,
+  Christoph, and Hoffman, Judy.
+\newblock Token merging: Your vit but faster.
+\newblock {\em arXiv preprint arXiv:2210.09461}, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{bolya2023token}
+Bolya, Daniel and Hoffman, Judy.
+\newblock Token merging for fast stable diffusion.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 4599--4603, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{feller2015retracted}
 Feller, William.
 \newblock Retracted chapter: On the theory of stochastic processes, with
   particular reference to applications.
 \newblock In {\em Selected Papers I}, pages 769--798. Springer, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{haurum2023tokens}
+Haurum, Joakim~Bruslund, Escalera, Sergio, Taylor, Graham~W, and Moeslund,
+  Thomas~B.
+\newblock Which tokens to use? investigating token reduction in vision
+  transformers.
+\newblock In {\em Proceedings of the IEEE/CVF International Conference on
+  Computer Vision}, pages 773--783, 2023.
 
 \end{LTRbibitems}
 
@@ -34,10 +66,32 @@ Ho, Jonathan, Jain, Ajay, and Abbeel, Pieter.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{kim2024token}
+Kim, Minchul, Gao, Shangqian, Hsu, Yen-Chang, Shen, Yilin, and Jin, Hongxia.
+\newblock Token fusion: Bridging the gap between token pruning and token
+  merging.
+\newblock In {\em Proceedings of the IEEE/CVF Winter Conference on Applications
+  of Computer Vision}, pages 1383--1392, 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{CiteDrive2022}
 Kreis, Karsten, Gao, Ruiqi, and Vahdat, Arash.
 \newblock Denoising diffusion-based generative modeling: Foundations and
   applications, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{li2023faster}
+Li, Senmao, Hu, Taihang, Shahbaz~Khan, Fahad, Li, Linxuan, Yang, Shiqi, Wang,
+  Yaxing, Cheng, Ming-Ming, and Yang, Jian.
+\newblock Faster diffusion: Rethinking the role of unet encoder in diffusion
+  models.
+\newblock {\em arXiv e-prints}, pages arXiv--2312, 2023.
 
 \end{LTRbibitems}
 
@@ -49,6 +103,17 @@ Li, Xiuyu, Liu, Yijiang, Lian, Long, Yang, Huanrui, Dong, Zhen, Kang, Daniel,
 \newblock Q-diffusion: Quantizing diffusion models.
 \newblock In {\em Proceedings of the IEEE/CVF International Conference on
   Computer Vision}, pages 17535--17545, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{liu2024faster}
+Liu, Haozhe, Zhang, Wentian, Xie, Jinheng, Faccio, Francesco, Xu, Mengmeng,
+  Xiang, Tao, Shou, Mike~Zheng, Perez-Rua, Juan-Manuel, and Schmidhuber,
+  J{\"u}rgen.
+\newblock Faster diffusion via temporal attention decomposition.
+\newblock {\em arXiv e-prints}, pages arXiv--2404, 2024.
 
 \end{LTRbibitems}
 

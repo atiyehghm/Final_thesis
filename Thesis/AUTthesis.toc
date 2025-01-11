@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست تصاویر}{ج}{section*.2}%
-\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
+\contentsline {chapter}{فهرست تصاویر}{د}{section*.2}%
+\contentsline {chapter}{فهرست جداول}{ه}{section*.3}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
@@ -26,9 +26,17 @@
 \contentsline {subsection}{\numberline {2-2-2}رویکرد‌های کاهش محاسبات هر گام}{17}{subsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2-2-2-1}گسسته‌سازی}{18}{subsubsection.2.2.2.1}%
 \contentsline {subsubsection}{\numberline {2-2-2-2}کاهش توکن‌ها}{18}{subsubsection.2.2.2.2}%
-\contentsline {subsubsection}{\numberline {2-2-2-3}استفاده‌ از حافظه‌ی پنهان}{18}{subsubsection.2.2.2.3}%
-\contentsline {subsubsubsection}{\numberline {2-2-2-3-1}روش استفاده از حافظه‌ی پنهان عمیق}{19}{subsubsubsection.2.2.2.3.1}%
-\contentsline {chapter}{کتاب‌نامه}{22}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{25}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{28}{appendix*.6}%
+\contentsline {subsubsubsection}{\numberline {2-2-2-2-1}روش ادغام توکن‌ها}{19}{subsubsubsection.2.2.2.2.1}%
+\contentsline {subsubsubsection}{\numberline {2-2-2-2-2}روش همجوشی توکن‌ها}{20}{subsubsubsection.2.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2-2-2-3}استفاده‌ از حافظه‌ی پنهان}{23}{subsubsection.2.2.2.3}%
+\contentsline {subsubsubsection}{\numberline {2-2-2-3-1}روش استفاده از حافظه‌ی پنهان عمیق}{23}{subsubsubsection.2.2.2.3.1}%
+\contentsline {subsubsubsection}{\numberline {2-2-2-3-2}مدل پخشی سریع‌تر}{25}{subsubsubsection.2.2.2.3.2}%
+\contentsline {subsubsubsection}{\numberline {2-2-2-3-3}رویکرد گیت $T$}{27}{subsubsubsection.2.2.2.3.3}%
+\contentsline {chapter}{\numberline {3}روش پیشنهادی}{30}{chapter.3}%
+\contentsline {section}{\numberline {3-1}روش پایه}{31}{section.3.1}%
+\contentsline {section}{\numberline {3-2}انطباقی کردن روش ادغام توکن‌ها}{33}{section.3.2}%
+\contentsline {section}{\numberline {3-3}استفاده از حافظه‌ی نهان در ادغام توکن‌ها}{34}{section.3.3}%
+\contentsline {chapter}{کتاب‌نامه}{37}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{40}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{43}{appendix*.6}%
 \contentsfinish 
