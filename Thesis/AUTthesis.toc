@@ -36,7 +36,14 @@
 \contentsline {section}{\numberline {3-1}روش پایه}{31}{section.3.1}%
 \contentsline {section}{\numberline {3-2}انطباقی کردن روش ادغام توکن‌ها}{33}{section.3.2}%
 \contentsline {section}{\numberline {3-3}استفاده از حافظه‌ی نهان در ادغام توکن‌ها}{34}{section.3.3}%
-\contentsline {chapter}{کتاب‌نامه}{37}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{40}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{43}{appendix*.6}%
+\contentsline {chapter}{\numberline {4}آزمایش‌ها و نتایج}{37}{chapter.4}%
+\contentsline {section}{\numberline {4-1}مجموعه‌ داده}{38}{section.4.1}%
+\contentsline {subsection}{\numberline {4-1-1}مجموعه ‌داده‌ی $ImageNet$}{38}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4-1-2}مجموعه‌ داده‌ی $COCO$}{38}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4-2}معیارهای ارزیابی}{39}{section.4.2}%
+\contentsline {section}{\numberline {4-3}تعیین ابرپارامترها}{41}{section.4.3}%
+\contentsline {section}{\numberline {4-4}تحلیل و بررسی نتایج}{42}{section.4.4}%
+\contentsline {chapter}{کتاب‌نامه}{44}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{48}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{51}{appendix*.6}%
 \contentsfinish 

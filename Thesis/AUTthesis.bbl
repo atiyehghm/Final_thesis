@@ -25,6 +25,16 @@ Bolya, Daniel and Hoffman, Judy.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{5206848}
+Deng, Jia, Dong, Wei, Socher, Richard, Li, Li-Jia, Li, Kai, and Fei-Fei, Li.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In {\em 2009 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 248--255, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{feller2015retracted}
 Feller, William.
 \newblock Retracted chapter: On the theory of stochastic processes, with
@@ -42,6 +52,17 @@ Haurum, Joakim~Bruslund, Escalera, Sergio, Taylor, Graham~W, and Moeslund,
   transformers.
 \newblock In {\em Proceedings of the IEEE/CVF International Conference on
   Computer Vision}, pages 773--783, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{heusel2017gans}
+Heusel, Martin, Ramsauer, Hubert, Unterthiner, Thomas, Nessler, Bernhard, and
+  Hochreiter, Sepp.
+\newblock Gans trained by a two time-scale update rule converge to a local nash
+  equilibrium.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
 
 \end{LTRbibitems}
 
@@ -86,6 +107,15 @@ Kreis, Karsten, Gao, Ruiqi, and Vahdat, Arash.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{krizhevsky2009learning}
+Krizhevsky, Alex, Hinton, Geoffrey, et~al.
+\newblock Learning multiple layers of features from tiny images.
+\newblock 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{li2023faster}
 Li, Senmao, Hu, Taihang, Shahbaz~Khan, Fahad, Li, Linxuan, Yang, Shiqi, Wang,
   Yaxing, Cheng, Ming-Ming, and Yang, Jian.
@@ -103,6 +133,18 @@ Li, Xiuyu, Liu, Yijiang, Lian, Long, Yang, Huanrui, Dong, Zhen, Kang, Daniel,
 \newblock Q-diffusion: Quantizing diffusion models.
 \newblock In {\em Proceedings of the IEEE/CVF International Conference on
   Computer Vision}, pages 17535--17545, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{lin2014microsoft}
+Lin, Tsung-Yi, Maire, Michael, Belongie, Serge, Hays, James, Perona, Pietro,
+  Ramanan, Deva, Doll{\'a}r, Piotr, and Zitnick, C~Lawrence.
+\newblock Microsoft coco: Common objects in context.
+\newblock In {\em Computer Vision--ECCV 2014: 13th European Conference, Zurich,
+  Switzerland, September 6-12, 2014, Proceedings, Part V 13}, pages 740--755.
+  Springer, 2014.
 
 \end{LTRbibitems}
 
@@ -215,6 +257,18 @@ Xiao, Zhisheng, Kreis, Karsten, and Vahdat, Arash.
 \newblock Tackling the generative learning trilemma with denoising diffusion
   gans.
 \newblock {\em arXiv preprint arXiv:2112.07804}, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zhang2018unreasonable}
+Zhang, Richard, Isola, Phillip, Efros, Alexei~A, Shechtman, Eli, and Wang,
+  Oliver.
+\newblock The unreasonable effectiveness of deep features as a perceptual
+  metric.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 586--595, 2018.
 
 \end{LTRbibitems}
 
