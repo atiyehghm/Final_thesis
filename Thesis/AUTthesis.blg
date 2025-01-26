@@ -21,45 +21,45 @@ I'm skipping whatever remains of this entry
 Warning--empty journal in krizhevsky2009learning
 
 Done.
-You've used 29 entries,
+You've used 31 entries,
             2546 wiz_defined-function locations,
-            769 strings with 10986 characters,
-and the built_in function-call counts, 14118 in all, are:
-= -- 1271
-> -- 720
-< -- 15
-+ -- 284
-- -- 254
-* -- 892
-:= -- 2039
-add.period$ -- 89
-call.type$ -- 29
-change.case$ -- 213
+            777 strings with 11531 characters,
+and the built_in function-call counts, 15416 in all, are:
+= -- 1376
+> -- 821
+< -- 16
++ -- 324
+- -- 292
+* -- 991
+:= -- 2238
+add.period$ -- 95
+call.type$ -- 31
+change.case$ -- 237
 chr.to.int$ -- 0
-cite$ -- 30
-duplicate$ -- 507
-empty$ -- 905
-format.name$ -- 254
-if$ -- 3388
+cite$ -- 32
+duplicate$ -- 542
+empty$ -- 966
+format.name$ -- 292
+if$ -- 3689
 int.to.chr$ -- 0
-int.to.str$ -- 29
-missing$ -- 326
-newline$ -- 266
-num.names$ -- 58
-pop$ -- 251
+int.to.str$ -- 31
+missing$ -- 359
+newline$ -- 284
+num.names$ -- 62
+pop$ -- 278
 preamble$ -- 1
-purify$ -- 184
+purify$ -- 206
 quote$ -- 0
-skip$ -- 440
+skip$ -- 471
 stack$ -- 0
-substring$ -- 796
-swap$ -- 203
-text.length$ -- 15
+substring$ -- 846
+swap$ -- 217
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 116
+type$ -- 124
 warning$ -- 1
-while$ -- 106
-width$ -- 31
-write$ -- 401
+while$ -- 113
+width$ -- 33
+write$ -- 428
 (There was 1 error message)

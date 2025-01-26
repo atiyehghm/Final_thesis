@@ -8,19 +8,19 @@
 \contentsline {figure}{\numberline {2-5}{\ignorespaces معماری مدل‌های پخشی پنهان}}{15}{figure.2.5}%
 \contentsline {figure}{\numberline {2-6}{\ignorespaces معماری مدل‌های مبتنی بر مبدل}}{16}{figure.2.6}%
 \contentsline {figure}{\numberline {2-7}{\ignorespaces مشکل سه‌گانه‌ی مدل‌های مولد}}{18}{figure.2.7}%
-\contentsline {figure}{\numberline {2-8}{\ignorespaces رویکرد‌های انتخاب توکن‌های مبدا و مقصد در ادغام توکن‌ها}}{22}{figure.2.8}%
+\contentsline {figure}{\numberline {2-8}{\ignorespaces رویکرد‌های انتخاب توکن‌های مبدا و مقصد در ادغام توکن‌ها}}{23}{figure.2.8}%
 \contentsline {figure}{\numberline {2-9}{\ignorespaces روال کار ساخت گراف دوبخشی و ادغام توکن‌ها}}{23}{figure.2.9}%
-\contentsline {figure}{\numberline {2-10}{\ignorespaces محل قرارگیری بلوک‌های ادغام و رفع ادغام در بلوک مبدل در مدل‌های پخشی}}{23}{figure.2.10}%
-\contentsline {figure}{\numberline {2-11}{\ignorespaces مشاهدات تجربی مبنی بر وجود افزونگی زمانی در ویژگی‌های سطح بالا در مدل‌های پخشی}}{26}{figure.2.11}%
+\contentsline {figure}{\numberline {2-10}{\ignorespaces محل قرارگیری بلوک‌های ادغام و رفع ادغام در بلوک مبدل در مدل‌های پخشی}}{24}{figure.2.10}%
+\contentsline {figure}{\numberline {2-11}{\ignorespaces مشاهدات تجربی مبنی بر وجود افزونگی زمانی در ویژگی‌های سطح بالا در مدل‌های پخشی}}{27}{figure.2.11}%
 \contentsline {figure}{\numberline {2-12}{\ignorespaces کلیت روش استفاده از حافظه‌ی پنهان عمیق}}{27}{figure.2.12}%
-\contentsline {figure}{\numberline {2-13}{\ignorespaces مشاهدات تجربی مبتنی بر تغییرات ناچیز کدگذار شبکه‌ی یو‌ی مدل پخشی}}{28}{figure.2.13}%
-\contentsline {figure}{\numberline {2-14}{\ignorespaces کلیت مدل پخشی سریع‌تر}}{29}{figure.2.14}%
-\contentsline {figure}{\numberline {2-15}{\ignorespaces نمودار تفاضل تغییرات بلوک توجه متقابل در گام‌های زمانی متوالی}}{30}{figure.2.15}%
+\contentsline {figure}{\numberline {2-13}{\ignorespaces مشاهدات تجربی مبتنی بر تغییرات ناچیز کدگذار شبکه‌ی یو‌ی مدل پخشی}}{29}{figure.2.13}%
+\contentsline {figure}{\numberline {2-14}{\ignorespaces کلیت مدل پخشی سریع‌تر}}{30}{figure.2.14}%
+\contentsline {figure}{\numberline {2-15}{\ignorespaces نمودار تفاضل تغییرات بلوک توجه متقابل در گام‌های زمانی متوالی}}{31}{figure.2.15}%
 \contentsline {figure}{\numberline {2-16}{\ignorespaces تقسیم فرآیند نویززدایی به دو بخش برنامه‌ریزی معنایی و افزایش کیفیت}}{31}{figure.2.16}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces تصویر نمادین تفاوت حالت انطباق‌پذیر و حالت ثابت ادغام توکن‌ها}}{36}{figure.3.1}%
-\contentsline {figure}{\numberline {3-2}{\ignorespaces نمودار فاصله‌ی جاکارد مجموعه‌ی جفت‌های ادغام در روش ادغام توکن‌ها}}{37}{figure.3.2}%
-\contentsline {figure}{\numberline {3-3}{\ignorespaces شمای کلی روش پیشنهادی و استفاده از حافظه‌ی پنهان در فرآیند ادغام توکن‌ها}}{38}{figure.3.3}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces تصویر نمادین تفاوت حالت انطباق‌پذیر و حالت ثابت ادغام توکن‌ها}}{37}{figure.3.1}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces نمودار فاصله‌ی جاکارد مجموعه‌ی جفت‌های ادغام در روش ادغام توکن‌ها}}{40}{figure.3.2}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces شمای کلی روش پیشنهادی و استفاده از حافظه‌ی پنهان در فرآیند ادغام توکن‌ها}}{41}{figure.3.3}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsfinish 

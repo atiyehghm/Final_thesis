@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  26 JAN 2025 10:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  26 JAN 2025 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -26,9 +26,33 @@ File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )) (./commands.tex
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks16
+\thm@bodyfont=\toks17
+\thm@headfont=\toks18
+\thm@notefont=\toks19
+\thm@headpunct=\toks20
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks21
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip50
+\@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -36,7 +60,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
+\@emptytoks=\toks23
 \ex@=\dimen141
 ))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -76,53 +100,30 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count197
 \dspbrk@lvl=\count198
-\tag@help=\toks17
+\tag@help=\toks24
 \row@=\count199
 \column@=\count266
 \maxfields@=\count267
-\andhelp@=\toks18
+\andhelp@=\toks25
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
 \tagshift@=\dimen146
 \tagwidth@=\dimen147
 \totwidth@=\dimen148
 \lineht@=\dimen149
-\@envbody=\toks19
-\multlinegap=\skip51
-\multlinetaggap=\skip52
-\mathdisplay@stack=\toks20
+\@envbody=\toks26
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks21
-\thm@bodyfont=\toks22
-\thm@headfont=\toks23
-\thm@notefont=\toks24
-\thm@headpunct=\toks25
-\thm@preskip=\skip53
-\thm@postskip=\skip54
-\thm@headsep=\skip55
-\dth@everypar=\toks26
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks27
+\KV@toks@=\toks28
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -141,7 +142,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen155
 \Gm@layouthoffset=\dimen156
 \Gm@layoutvoffset=\dimen157
-\Gm@dimlist=\toks28
+\Gm@dimlist=\toks29
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -223,7 +224,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip90
 \enit@outerparindent=\dimen161
-\enit@toks=\toks29
+\enit@toks=\toks30
 \enit@inbox=\box53
 \enit@count@id=\count273
 \enitdp@description=\count274
@@ -264,12 +265,12 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen175
 \ar@mcellbox=\box54
 \extrarowheight=\dimen176
-\NC@list=\toks30
+\NC@list=\toks31
 \extratabsurround=\skip91
 \backup@length=\skip92
 \ar@cellbox=\box55
 )
-\everycr=\toks31
+\everycr=\toks32
 \minrowclearance=\skip93
 \rownum=\count279
 )
@@ -293,15 +294,15 @@ nment
 (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count280
-\float@exts=\toks32
+\float@exts=\toks33
 \float@box=\box56
-\@float@everytoks=\toks33
+\@float@everytoks=\toks34
 \@floatcapt=\box57
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\@float@every@algorithm=\toks34
+\@float@every@algorithm=\toks35
 \c@algorithm=\count281
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
@@ -330,7 +331,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \aftertitleunit=\skip98
 \ttl@plus=\dimen177
 \ttl@minus=\dimen178
-\ttl@toksa=\toks35
+\ttl@toksa=\toks36
 \titlewidth=\dimen179
 \titlewidthlast=\dimen180
 \titlewidthfirst=\dimen181
@@ -588,8 +589,8 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks36
-\verbatim@line=\toks37
+\every@verbatim=\toks37
+\verbatim@line=\toks38
 \verbatim@in@stream=\read2
 )
 \@indexfile=\write3
@@ -730,18 +731,18 @@ n plain TeX and LaTeX
 ****************************************************
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks38
-\@bidi@emptytoks=\toks39
+\@bidi@envbody=\toks39
+\@bidi@emptytoks=\toks40
 \bidi@poscount=\count364
 \bidi@tempcountb=\count365
-\bidi@temptoksa=\toks40
-\bidi@temptoksb=\toks41
+\bidi@temptoksa=\toks41
+\bidi@temptoksb=\toks42
 \bidi@dummies=\count366
-\bidi@are@these@correct=\toks42
-\bidi@toks@lista=\toks43
-\bidi@toks@listb=\toks44
+\bidi@are@these@correct=\toks43
+\bidi@toks@lista=\toks44
+\bidi@toks@listb=\toks45
 \bidi@stack@length=\count367
-\bidi@empty@stack=\toks45
+\bidi@empty@stack=\toks46
 \bidi@looprepeat@depth=\count368
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/zref/zref-abspage.sty
@@ -761,8 +762,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks46
-\XKV@tempa@toks=\toks47
+\XKV@toks=\toks47
+\XKV@tempa@toks=\toks48
 )
 \XKV@depth=\count370
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -772,14 +773,14 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks48
+\bidi@n@everypar=\toks49
 \bidi@column@check@number=\count371
 
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
 \c@footdir@label=\count372
-\footdir@toks=\toks49
+\footdir@toks=\toks50
 )
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -1035,7 +1036,7 @@ n-tex-text;"
 \c@definition=\count375
 
 
-Package amsthm Warning: Unknown theoremstyle `theorem' on input line 134.
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 137.
 
 \c@savepage=\count376
 \c@subsubsubsection=\count377
@@ -1569,7 +1570,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 328--338
+LaTeX Font Info:    Trying to load font information for U+euf on input line 329
+.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 336--346
 [][]
  []
 
@@ -1581,7 +1596,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20]
+[21]
 
 Package hyperref Warning: bookmark level for unknown subsubsubsection defaults 
 to 0.
@@ -1589,25 +1604,10 @@ to 0.
 File: tome1.png Graphic file (type bmp)
 <tome1.png>
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[21]
 File: tome2.png Graphic file (type bmp)
 <tome2.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: tome3.png Graphic file (type bmp)
-<tome3.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1617,6 +1617,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
+File: tome3.png Graphic file (type bmp)
+<tome3.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1627,8 +1630,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [23]
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 404.
+(hyperref)                than one, level fixed on input line 412.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1638,8 +1650,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 411--415
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 419--423
 [][]
  []
 
@@ -1650,18 +1662,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Missing character: There is no   (U+00A0) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[25]
 File: deepcache2.png Graphic file (type bmp)
 <deepcache2.png>
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1683,12 +1685,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 474--476
+Underfull \hbox (badness 10000) in paragraph at lines 479--484
 [][]
  []
 
-File: faster_diffusion1.png Graphic file (type bmp)
-<faster_diffusion1.png>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1698,19 +1698,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [28]
+File: faster_diffusion1.png Graphic file (type bmp)
+<faster_diffusion1.png>
 File: faster2.png Graphic file (type bmp)
 <faster2.png>
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 503.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 503.
+(hyperref)                removing `math shift' on input line 511.
 
-File: tgate1.png Graphic file (type bmp)
-<tgate1.png>
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 511.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1720,13 +1723,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-File: tgate2.png Graphic file (type bmp)
-<tgate2.png>
+File: tgate1.png Graphic file (type bmp)
+<tgate1.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)
+File: tgate2.png Graphic file (type bmp)
+<tgate2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1744,7 +1751,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[31]
+[31])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -1757,7 +1773,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[32
+[33
 
 
 
@@ -1778,31 +1794,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[33]
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
-[][]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [34]
-File: catome1.png Graphic file (type bmp)
-<catome1.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-[][]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1812,6 +1804,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [35]
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+[][]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1821,8 +1817,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [36]
-File: catome2.png Graphic file (type bmp)
-<catome2.png>
+File: catome1.png Graphic file (type bmp)
+<catome1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+[][]
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1833,13 +1833,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [37]
-File: catome3.png Graphic file (type bmp)
-<catome3.png>
-
-
-LaTeX Warning: Reference `footdir@236' on page 38 undefined on input line 108.
-
-)
+Missing character: There is no   (U+00A0) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no   (U+00A0) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1849,6 +1846,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[39]
+File: catome2.png Graphic file (type bmp)
+<catome2.png>
+File: catome3.png Graphic file (type bmp)
+<catome3.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1861,7 +1893,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[39
+[42
 
 
 
@@ -1898,7 +1930,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[40]
+[43]
 Overfull \hbox (3.58582pt too wide) in paragraph at lines 28--32
 []\TU/BNazanin.ttf(0)/b/n/12 با وجود این که در اکثر مقالات مرتبط با تولید تصاوی
 ر معیار $\OML/cmm/m/it/12 FID$ \TU/BNazanin.ttf(0)/b/n/12 گزارش می‌شود؛ این معی
@@ -1913,7 +1945,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41]
+[44]
 Underfull \hbox (badness 10000) in paragraph at lines 40--46
 [][]
  []
@@ -1926,7 +1958,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[42]
+[45]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1935,53 +1967,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[43]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 112--114
 [][]
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[44])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[45]
-\openout2 = `chapter5.aux'.
-
- (./chapter5.tex
-فصل 5.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[46
-
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 3--13
-[][]
- []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2000,7 +1992,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[48] (./AUTthesis.bbl
+[48]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+فصل 5.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3--13
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -2009,7 +2041,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 2.
 
-[49
+[52
 
 
 
@@ -2022,49 +2054,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[51])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[52]
-\openout2 = `dicfa2en.aux'.
-
- (./dicfa2en.tex
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-[53
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-[][]\TU/BNazanin.ttf(0)/b/n/12 مدل پخشی نویززدای احتمالاتی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
-[][]\TU/BNazanin.ttf(0)/b/n/12 مشکل سه‌گانه‌ی یادگیری مولد[]
- []
-
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
+[53]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2074,10 +2064,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [54]
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2087,31 +2073,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [55])
-\openout2 = `dicen2fa.aux'.
 
- (./dicen2fa.tex
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
-(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 9
-.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[56]
+\openout2 = `dicfa2en.aux'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
-[][][]\TU/BNazanin.ttf(0)/b/n/12 مدل پخشی نویززدای احتمالاتی[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[][][]\TU/BNazanin.ttf(0)/b/n/12 مشکل سه‌گانه‌ی یادگیری مولد[][]
+ (./dicfa2en.tex
+Overfull \hbox (2.60855pt too wide) in paragraph at lines 19--19
+[][]\TU/BNazanin.ttf(0)/b/n/12 آموزش آگاه از کوانتیزاسیون []\TU/TimesNewRoman.t
+tf(0)/m/it/12 Quantization-[][]
  []
 
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-[56
-
-
+[57
 
 
 ]
@@ -2127,12 +2110,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[57]
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[][]\TU/BNazanin.ttf(0)/b/n/12 مدل‌های پخشی نویززدای احتمالاتی[]
+ []
+
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2141,10 +2127,64 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[58] (./en_title.tex
+[59])
+\openout2 = `dicen2fa.aux'.
+
+ (./dicen2fa.tex
+
+LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
+(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 8
+.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[][][]\TU/BNazanin.ttf(0)/b/n/12 مدل‌های پخشی نویززدای احتمالاتی[][]
+ []
+
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+[60
+
+
+
+
+]
+Overfull \hbox (2.60855pt too wide) in paragraph at lines 90--90
+[][][]\TU/BNazanin.ttf(0)/b/n/12 آموزش آگاه از کوانتیزاسیون[] []\TU/TimesNewRom
+an.ttf(0)/b/n/12 Quantization-[][]
+ []
+
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61]
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[62]) (./en_title.tex
 File: en-logo.png Graphic file (type bmp)
 <en-logo.png>
- [59
+ [63
 
 
 ]) (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux)
@@ -2153,19 +2193,16 @@ File: en-logo.png Graphic file (type bmp)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 18232D0A1FFE5C0BC0E4D903A18AF7F5;9322.
+(rerunfilecheck)             Checksum: 11C6E344636EB39492B3AA8CC0922963;9458.
  ) 
 Here is how much of TeX's memory you used:
- 20319 strings out of 476683
- 399386 string characters out of 5804047
- 1865018 words of memory out of 5000000
- 40050 multiletter control sequences out of 15000+600000
- 527368 words of font info for 127 fonts, out of 8000000 for 9000
+ 20357 strings out of 476683
+ 400061 string characters out of 5804047
+ 1866018 words of memory out of 5000000
+ 40082 multiletter control sequences out of 15000+600000
+ 529256 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,13n,94p,2406b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (68 pages).
+Output written on AUTthesis.pdf (72 pages).

@@ -182,6 +182,17 @@ Ma, Zhiyuan, Zhang, Yuzhu, Jia, Guoli, Zhao, Liangliang, Ma, Yichao, Ma,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{pan2024t}
+Pan, Zizheng, Zhuang, Bohan, Huang, De-An, Nie, Weili, Yu, Zhiding, Xiao,
+  Chaowei, Cai, Jianfei, and Anandkumar, Anima.
+\newblock T-stitch: Accelerating sampling in pre-trained diffusion models with
+  trajectory stitching.
+\newblock {\em arXiv preprint arXiv:2402.14167}, 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{peebles2023scalable}
 Peebles, William and Xie, Saining.
 \newblock Scalable diffusion models with transformers.
@@ -277,6 +288,18 @@ Song, Yang, Sohl-Dickstein, Jascha, Kingma, Diederik~P, Kumar, Abhishek, Ermon,
 \newblock Score-based generative modeling through stochastic differential
   equations.
 \newblock {\em arXiv preprint arXiv:2011.13456}, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wimbauer2024cache}
+Wimbauer, Felix, Wu, Bichen, Schoenfeld, Edgar, Dai, Xiaoliang, Hou, Ji, He,
+  Zijian, Sanakoyeu, Artsiom, Zhang, Peizhao, Tsai, Sam, Kohler, Jonas, et~al.
+\newblock Cache me if you can: Accelerating diffusion models through block
+  caching.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 6211--6220, 2024.
 
 \end{LTRbibitems}
 
