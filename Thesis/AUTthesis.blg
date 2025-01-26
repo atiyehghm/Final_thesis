@@ -5,13 +5,14 @@ A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
 The style file: plain-fa.bst
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 Database file #1: references.bib
 Warning--entry type for "CiteDrive2022" isn't style-file defined
 --line 122 of file references.bib
-Repeated entry---line 296 of file references.bib
+Repeated entry---line 303 of file references.bib
  : @article{heusel2017gans
  :                        ,
 I'm skipping whatever remains of this entry
@@ -20,45 +21,45 @@ I'm skipping whatever remains of this entry
 Warning--empty journal in krizhevsky2009learning
 
 Done.
-You've used 26 entries,
+You've used 29 entries,
             2546 wiz_defined-function locations,
-            757 strings with 10507 characters,
-and the built_in function-call counts, 13054 in all, are:
-= -- 1178
-> -- 661
+            769 strings with 10986 characters,
+and the built_in function-call counts, 14118 in all, are:
+= -- 1271
+> -- 720
 < -- 15
-+ -- 261
-- -- 234
-* -- 824
-:= -- 1866
-add.period$ -- 80
-call.type$ -- 26
-change.case$ -- 194
++ -- 284
+- -- 254
+* -- 892
+:= -- 2039
+add.period$ -- 89
+call.type$ -- 29
+change.case$ -- 213
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 476
-empty$ -- 841
-format.name$ -- 234
-if$ -- 3147
+cite$ -- 30
+duplicate$ -- 507
+empty$ -- 905
+format.name$ -- 254
+if$ -- 3388
 int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 298
-newline$ -- 239
-num.names$ -- 52
-pop$ -- 234
+int.to.str$ -- 29
+missing$ -- 326
+newline$ -- 266
+num.names$ -- 58
+pop$ -- 251
 preamble$ -- 1
-purify$ -- 168
+purify$ -- 184
 quote$ -- 0
-skip$ -- 417
+skip$ -- 440
 stack$ -- 0
-substring$ -- 744
-swap$ -- 200
+substring$ -- 796
+swap$ -- 203
 text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 104
+type$ -- 116
 warning$ -- 1
-while$ -- 98
-width$ -- 28
-write$ -- 361
+while$ -- 106
+width$ -- 31
+write$ -- 401
 (There was 1 error message)

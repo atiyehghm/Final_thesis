@@ -214,6 +214,15 @@ Ronneberger, Olaf, Fischer, Philipp, and Brox, Thomas.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{salimans2022progressive}
+Salimans, Tim and Ho, Jonathan.
+\newblock Progressive distillation for fast sampling of diffusion models.
+\newblock {\em arXiv preprint arXiv:2202.00512}, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{salimans2017pixelcnn++}
 Salimans, Tim, Karpathy, Andrej, Chen, Xi, and Kingma, Diederik~P.
 \newblock Pixelcnn++: Improving the pixelcnn with discretized logistic mixture
@@ -247,6 +256,27 @@ Song, Jiaming, Meng, Chenlin, and Ermon, Stefano.
 Song, Yang and Ermon, Stefano.
 \newblock Generative modeling by estimating gradients of the data distribution.
 \newblock {\em Advances in neural information processing systems}, 32, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{song2020improved}
+Song, Yang and Ermon, Stefano.
+\newblock Improved techniques for training score-based generative models.
+\newblock {\em Advances in neural information processing systems},
+  33:12438--12448, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{song2020score}
+Song, Yang, Sohl-Dickstein, Jascha, Kingma, Diederik~P, Kumar, Abhishek, Ermon,
+  Stefano, and Poole, Ben.
+\newblock Score-based generative modeling through stochastic differential
+  equations.
+\newblock {\em arXiv preprint arXiv:2011.13456}, 2020.
 
 \end{LTRbibitems}
 

@@ -9,15 +9,14 @@
 \contentsline {section}{\numberline {2-1}تعاریف}{5}{section.2.1}%
 \contentsline {subsection}{\numberline {2-1-1}مدل‌های مولد}{5}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2-1-2}مدل‌های پخشی}{5}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2-1-3}مدل‌های پخشی احتمالاتی نویززدا}{7}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2-1-3}مدل‌های پخشی نویززدای احتمالاتی}{7}{subsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2-1-3-1}تعریف مدل}{7}{subsubsection.2.1.3.1}%
 \contentsline {subsubsection}{\numberline {2-1-3-2}مسیر رو به جلو}{7}{subsubsection.2.1.3.2}%
 \contentsline {subsubsection}{\numberline {2-1-3-3}مسیر رو به عقب}{8}{subsubsection.2.1.3.3}%
-\contentsline {subsubsection}{\numberline {2-1-3-4}تابع مدل مولد}{9}{subsubsection.2.1.3.4}%
-\contentsline {subsubsection}{\numberline {2-1-3-5}تعریف تابع خطا}{9}{subsubsection.2.1.3.5}%
-\contentsline {subsubsection}{\numberline {2-1-3-6}تغییر پارامتر تابع خطا}{10}{subsubsection.2.1.3.6}%
-\contentsline {subsubsection}{\numberline {2-1-3-7}فرآیند یادگیری}{11}{subsubsection.2.1.3.7}%
-\contentsline {subsubsection}{\numberline {2-1-3-8}فرآیند تولید نمونه‌ی جدید}{12}{subsubsection.2.1.3.8}%
+\contentsline {subsubsection}{\numberline {2-1-3-4}تعریف تابع خطا}{9}{subsubsection.2.1.3.4}%
+\contentsline {subsubsection}{\numberline {2-1-3-5}تغییر پارامتر تابع خطا}{9}{subsubsection.2.1.3.5}%
+\contentsline {subsubsection}{\numberline {2-1-3-6}فرآیند یادگیری}{11}{subsubsection.2.1.3.6}%
+\contentsline {subsubsection}{\numberline {2-1-3-7}فرآیند تولید نمونه‌ی جدید}{12}{subsubsection.2.1.3.7}%
 \contentsline {subsection}{\numberline {2-1-4}انواع معماری مدل‌های پخشی نویززدای احتمالاتی}{12}{subsection.2.1.4}%
 \contentsline {subsubsection}{\numberline {2-1-4-1}مدل پخشی نهان}{13}{subsubsection.2.1.4.1}%
 \contentsline {subsubsection}{\numberline {2-1-4-2}مدل پخشی مبتی بر مبدل‌}{15}{subsubsection.2.1.4.2}%

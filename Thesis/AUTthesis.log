@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  12 JAN 2025 11:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  26 JAN 2025 10:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -26,33 +26,9 @@ File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )) (./commands.tex
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks16
-\thm@bodyfont=\toks17
-\thm@headfont=\toks18
-\thm@notefont=\toks19
-\thm@headpunct=\toks20
-\thm@preskip=\skip50
-\thm@postskip=\skip51
-\thm@headsep=\skip52
-\dth@everypar=\toks21
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks22
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip53
+\@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -60,7 +36,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
+\@emptytoks=\toks16
 \ex@=\dimen141
 ))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -100,30 +76,53 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count197
 \dspbrk@lvl=\count198
-\tag@help=\toks24
+\tag@help=\toks17
 \row@=\count199
 \column@=\count266
 \maxfields@=\count267
-\andhelp@=\toks25
+\andhelp@=\toks18
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
 \tagshift@=\dimen146
 \tagwidth@=\dimen147
 \totwidth@=\dimen148
 \lineht@=\dimen149
-\@envbody=\toks26
-\multlinegap=\skip54
-\multlinetaggap=\skip55
-\mathdisplay@stack=\toks27
+\@envbody=\toks19
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks26
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks28
+\KV@toks@=\toks27
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -142,7 +141,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen155
 \Gm@layouthoffset=\dimen156
 \Gm@layoutvoffset=\dimen157
-\Gm@dimlist=\toks29
+\Gm@dimlist=\toks28
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -224,7 +223,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip90
 \enit@outerparindent=\dimen161
-\enit@toks=\toks30
+\enit@toks=\toks29
 \enit@inbox=\box53
 \enit@count@id=\count273
 \enitdp@description=\count274
@@ -265,12 +264,12 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen175
 \ar@mcellbox=\box54
 \extrarowheight=\dimen176
-\NC@list=\toks31
+\NC@list=\toks30
 \extratabsurround=\skip91
 \backup@length=\skip92
 \ar@cellbox=\box55
 )
-\everycr=\toks32
+\everycr=\toks31
 \minrowclearance=\skip93
 \rownum=\count279
 )
@@ -294,15 +293,15 @@ nment
 (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count280
-\float@exts=\toks33
+\float@exts=\toks32
 \float@box=\box56
-\@float@everytoks=\toks34
+\@float@everytoks=\toks33
 \@floatcapt=\box57
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\@float@every@algorithm=\toks35
+\@float@every@algorithm=\toks34
 \c@algorithm=\count281
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
@@ -331,7 +330,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \aftertitleunit=\skip98
 \ttl@plus=\dimen177
 \ttl@minus=\dimen178
-\ttl@toksa=\toks36
+\ttl@toksa=\toks35
 \titlewidth=\dimen179
 \titlewidthlast=\dimen180
 \titlewidthfirst=\dimen181
@@ -589,8 +588,8 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks37
-\verbatim@line=\toks38
+\every@verbatim=\toks36
+\verbatim@line=\toks37
 \verbatim@in@stream=\read2
 )
 \@indexfile=\write3
@@ -731,18 +730,18 @@ n plain TeX and LaTeX
 ****************************************************
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks39
-\@bidi@emptytoks=\toks40
+\@bidi@envbody=\toks38
+\@bidi@emptytoks=\toks39
 \bidi@poscount=\count364
 \bidi@tempcountb=\count365
-\bidi@temptoksa=\toks41
-\bidi@temptoksb=\toks42
+\bidi@temptoksa=\toks40
+\bidi@temptoksb=\toks41
 \bidi@dummies=\count366
-\bidi@are@these@correct=\toks43
-\bidi@toks@lista=\toks44
-\bidi@toks@listb=\toks45
+\bidi@are@these@correct=\toks42
+\bidi@toks@lista=\toks43
+\bidi@toks@listb=\toks44
 \bidi@stack@length=\count367
-\bidi@empty@stack=\toks46
+\bidi@empty@stack=\toks45
 \bidi@looprepeat@depth=\count368
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/zref/zref-abspage.sty
@@ -762,8 +761,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks47
-\XKV@tempa@toks=\toks48
+\XKV@toks=\toks46
+\XKV@tempa@toks=\toks47
 )
 \XKV@depth=\count370
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -773,14 +772,14 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks49
+\bidi@n@everypar=\toks48
 \bidi@column@check@number=\count371
 
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
 \c@footdir@label=\count372
-\footdir@toks=\toks50
+\footdir@toks=\toks49
 )
 (/usr/local/texlive/2023/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
@@ -992,7 +991,7 @@ n-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 75.
+(Font)              scaled to size 14.39996pt on input line 76.
 
 Package fontspec Info: Font family 'TimesNewRoman.ttf(0)' created for font
 (fontspec)             'Times New Roman.ttf' with options [Ligatures=TeX].
@@ -1004,7 +1003,7 @@ Package fontspec Info: Font family 'TimesNewRoman.ttf(0)' created for font
 (fontspec)             Roman.ttf]/OT:language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-LaTeX Info: Redefining \latinfont on input line 76.
+LaTeX Info: Redefining \latinfont on input line 77.
 
 Package fontspec Info: Font family 'IranNastaliq.ttf(0)' created for font
 (fontspec)             'IranNastaliq.ttf' with options
@@ -1036,7 +1035,7 @@ n-tex-text;"
 \c@definition=\count375
 
 
-Package amsthm Warning: Unknown theoremstyle `theorem' on input line 133.
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 134.
 
 \c@savepage=\count376
 \c@subsubsubsection=\count377
@@ -1045,15 +1044,8 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 133.
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux
-
-LaTeX Warning: Label `ldm' multiply defined.
-
-
-LaTeX Warning: Label `ldm@cref' multiply defined.
-
-) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./dicfa2en.aux)
-(./dicen2fa.aux))
+(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./chapter5.aux) (./dicfa2en.aux) (./dicen2fa.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1067,7 +1059,8 @@ LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 2.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -1081,6 +1074,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1365,6 +1359,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
+Missing character: There is no   (U+00A0) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+
 Underfull \hbox (badness 10000) in paragraph at lines 12--14
 [][]
  []
@@ -1394,16 +1391,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-Missing character: There is no ’ ("2019) in font cmr12!
-! Extra }, or forgotten $.
-l.61 ... | x^{(t-1)}) = T_\pi(x^{(t)} | x^{(t-1)}}
-                                                  ; \beta_t)
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1414,6 +1401,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [7]
 
+! Package amsmath Error: Erroneous nesting of equation structures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \end{align*}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1422,10 +1422,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8]
-Overfull \hbox (0.2563pt too wide) in paragraph at lines 110--111
-[][]\TU/BNazanin.ttf(0)/b/n/12 در اینجا برای آموزش به جای بهینه سازی مستقیم لگا
-ریتم درست‌نمایی از بهینه سازی حد تغییراتی[][][][][][][][][][][][][]
- []
+
+! Package amsmath Error: Erroneous nesting of equation structures;
+(amsmath)                trying to recover with `aligned'.
+
+See the amsmath package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \end{align*}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1446,7 +1454,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [10]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 172.
+put line 167.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1457,23 +1465,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.213 \begin
-            {figure}[!h]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 File: ddpm2.png Graphic file (type bmp)
 <ddpm2.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1503,13 +1496,7 @@ File: LDM.png Graphic file (type bmp)
 <LDM.png>
 
 
-LaTeX Warning: Reference `footdir@99' on page 14 undefined on input line 255.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `' on page 14 undefined on input line 264.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1529,21 +1516,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.267 \begin
-            {figure}[!h]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 File: dit.png Graphic file (type bmp)
 <dit.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1568,7 +1543,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 318--324
+Underfull \hbox (badness 10000) in paragraph at lines 311--317
 [][]
  []
 
@@ -1581,7 +1556,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 325--329
+Underfull \hbox (badness 10000) in paragraph at lines 318--322
 [][]
  []
 
@@ -1594,7 +1569,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 335--345
+Underfull \hbox (badness 10000) in paragraph at lines 328--338
 [][]
  []
 
@@ -1651,32 +1626,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
-! Extra }, or forgotten $.
-l.401 ...bar{x} = \frac{1}{K}\sum_{k=1}^{K}x_{k} }
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-l.405 ...}\|} \times \max_{k=1,\dots,K}\|x_{k}\| }
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 411.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 412--416
-[][]
- []
+(hyperref)                than one, level fixed on input line 404.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1687,22 +1639,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.418 ر
-       وش استفاده از حافظه‌ی پنهان عمیق\cite{ma2024deepcache} بر مبنای یک مش...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 418--422
+Underfull \hbox (badness 10000) in paragraph at lines 411--415
 [][]
  []
 
@@ -1710,20 +1647,6 @@ File: deepcache1.png Graphic file (type bmp)
 <deepcache1.png>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.435 ش
-       کل \ref{deep2} کلیت این روش را نشان‌ می‌دهد. در این شکل بلوک‌های $D_i...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 Missing character: There is no   (U+00A0) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
@@ -1760,22 +1683,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.481 ش
-       کل \ref{faster1} نمودار‌های تجربی به دست آمده از محاسبه‌ی تفاضل بالا ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 481--483
+Underfull \hbox (badness 10000) in paragraph at lines 474--476
 [][]
  []
 
@@ -1795,24 +1703,11 @@ File: faster2.png Graphic file (type bmp)
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 510.
+(hyperref)                removing `math shift' on input line 503.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 510.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.514  \begin
-             {figure}[!h]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+(hyperref)                removing `math shift' on input line 503.
 
 File: tgate1.png Graphic file (type bmp)
 <tgate1.png>
@@ -1942,7 +1837,7 @@ File: catome3.png Graphic file (type bmp)
 <catome3.png>
 
 
-LaTeX Warning: Reference `footdir@235' on page 38 undefined on input line 108.
+LaTeX Warning: Reference `footdir@236' on page 38 undefined on input line 108.
 
 )
 
@@ -2019,28 +1914,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [41]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ب
-      رای رفع محدودیت‌های معیار $FID$ دو رویکرد به کار گرفته می‌شود. اول، ثا...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (0.52773pt too wide) in paragraph at lines 40--46
-[]\TU/BNazanin.ttf(0)/b/n/12 آزمایش برای مدل‌های مبتنی بر یک مدل پایه و دوم، اس
-تفاده از سایر معیارها مانند $\OML/cmm/m/it/12 LPIPS$\TU/BNazanin.ttf(0)/b/n/12 
-، $\OML/cmm/m/it/12 Precision$[]
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 40--46
 [][]
  []
@@ -2069,19 +1942,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2296,17 +2156,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: AE885EBE9165260E498ED338C03E578F;9490.
+(rerunfilecheck)             Checksum: 18232D0A1FFE5C0BC0E4D903A18AF7F5;9322.
  ) 
 Here is how much of TeX's memory you used:
- 20308 strings out of 476683
- 399165 string characters out of 5804047
+ 20319 strings out of 476683
+ 399386 string characters out of 5804047
  1865018 words of memory out of 5000000
- 40039 multiletter control sequences out of 15000+600000
+ 40050 multiletter control sequences out of 15000+600000
  527368 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,13n,94p,2406b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
