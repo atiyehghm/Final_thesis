@@ -25,6 +25,18 @@ Bolya, Daniel and Hoffman, Judy.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{cherti2023reproducible}
+Cherti, Mehdi, Beaumont, Romain, Wightman, Ross, Wortsman, Mitchell, Ilharco,
+  Gabriel, Gordon, Cade, Schuhmann, Christoph, Schmidt, Ludwig, and Jitsev,
+  Jenia.
+\newblock Reproducible scaling laws for contrastive language-image learning.
+\newblock In {\em Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition}, pages 2818--2829, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{5206848}
 Deng, Jia, Dong, Wei, Socher, Richard, Li, Li-Jia, Li, Kai, and Fei-Fei, Li.
 \newblock Imagenet: A large-scale hierarchical image database.
@@ -111,6 +123,15 @@ Kreis, Karsten, Gao, Ruiqi, and Vahdat, Arash.
 Krizhevsky, Alex, Hinton, Geoffrey, et~al.
 \newblock Learning multiple layers of features from tiny images.
 \newblock 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{krizhevsky2012imagenet}
+Krizhevsky, Alex, Sutskever, Ilya, and Hinton, Geoffrey~E.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in neural information processing systems}, 25, 2012.
 
 \end{LTRbibitems}
 
@@ -203,6 +224,19 @@ Peebles, William and Xie, Saining.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{radford2021learning}
+Radford, Alec, Kim, Jong~Wook, Hallacy, Chris, Ramesh, Aditya, Goh, Gabriel,
+  Agarwal, Sandhini, Sastry, Girish, Askell, Amanda, Mishkin, Pamela, Clark,
+  Jack, et~al.
+\newblock Learning transferable visual models from natural language
+  supervision.
+\newblock In {\em International conference on machine learning}, pages
+  8748--8763. PMLR, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{rombach2022high}
 Rombach, Robin, Blattmann, Andreas, Lorenz, Dominik, Esser, Patrick, and Ommer,
   Bj{\"o}rn.
@@ -249,6 +283,15 @@ Shang, Yuzhang, Yuan, Zhihang, Xie, Bin, Wu, Bingzhe, and Yan, Yan.
 \newblock Post-training quantization on diffusion models.
 \newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
   pattern recognition}, pages 1972--1981, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{simonyan2014very}
+Simonyan, Karen.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
 
 \end{LTRbibitems}
 

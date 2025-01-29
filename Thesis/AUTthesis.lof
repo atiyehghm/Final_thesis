@@ -22,5 +22,10 @@
 \contentsline {figure}{\numberline {3-2}{\ignorespaces نمودار فاصله‌ی جاکارد مجموعه‌ی جفت‌های ادغام در روش ادغام توکن‌ها}}{40}{figure.3.2}%
 \contentsline {figure}{\numberline {3-3}{\ignorespaces شمای کلی روش پیشنهادی و استفاده از حافظه‌ی پنهان در فرآیند ادغام توکن‌ها}}{41}{figure.3.3}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-1}{\ignorespaces نمونه‌ تصاویری از مجموعه داده‌ی $ImageNet$}}{44}{figure.4.1}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces نمونه‌ تصاویری از مجموعه داده‌ی $COCO$}}{45}{figure.4.2}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces نمونه تصاویر تولیدی برای تنظیمات مختلف جدول \ref {tab:checkpoints} و به ازای ۵ کلاس مختلف از $ImageNet$ }}{51}{figure.4.3}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces نمونه تصاویر تولیدی از ۵ کلاس مجموعه داده‌ی $ImageNet$ در سه حالت مدل پایه‌ی $Stable\ Diffusion\ v1.5$، همراه با ادغام توکن و همراه با روش پیشنهادی }}{53}{figure.4.4}%
+\contentsline {figure}{\numberline {4-5}{\ignorespaces نمونه تصاویر تولیدی از ۵ کلاس مجموعه داده‌ی $ImageNet$ در سه حالت مدل پایه‌ی $Stable\ Diffusion\ v2$، همراه با ادغام توکن و همراه با روش پیشنهادی }}{54}{figure.4.5}%
 \addvspace {10\p@ }
 \contentsfinish 

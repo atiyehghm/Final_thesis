@@ -34,17 +34,17 @@
 \contentsline {section}{\numberline {2-3}جمع‌بندی}{32}{section.2.3}%
 \contentsline {chapter}{\numberline {3}روش پیشنهادی}{33}{chapter.3}%
 \contentsline {section}{\numberline {3-1}روش پایه}{34}{section.3.1}%
-\contentsline {section}{\numberline {3-2}انطباقی کردن روش ادغام توکن‌ها}{36}{section.3.2}%
+\contentsline {section}{\numberline {3-2}تطبیقی کردن روش ادغام توکن‌ها}{36}{section.3.2}%
 \contentsline {section}{\numberline {3-3}استفاده از حافظه‌ی نهان در ادغام توکن‌ها}{39}{section.3.3}%
 \contentsline {chapter}{\numberline {4}آزمایش‌ها و نتایج}{42}{chapter.4}%
 \contentsline {section}{\numberline {4-1}مجموعه‌ داده}{43}{section.4.1}%
 \contentsline {subsection}{\numberline {4-1-1}مجموعه ‌داده‌ی $ImageNet$}{43}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {4-1-2}مجموعه‌ داده‌ی $COCO$}{43}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4-2}معیارهای ارزیابی}{44}{section.4.2}%
-\contentsline {section}{\numberline {4-3}تعیین ابرپارامترها}{46}{section.4.3}%
-\contentsline {section}{\numberline {4-4}تحلیل و بررسی نتایج}{47}{section.4.4}%
-\contentsline {chapter}{\numberline {5}جمع‌بندی و راهکار‌های آتی}{49}{chapter.5}%
-\contentsline {chapter}{کتاب‌نامه}{52}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{57}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{60}{appendix*.6}%
+\contentsline {section}{\numberline {4-2}معیارهای ارزیابی}{45}{section.4.2}%
+\contentsline {section}{\numberline {4-3}تعیین ابرپارامترها}{48}{section.4.3}%
+\contentsline {section}{\numberline {4-4}تحلیل و بررسی نتایج}{52}{section.4.4}%
+\contentsline {chapter}{\numberline {5}جمع‌بندی و راهکار‌های آتی}{55}{chapter.5}%
+\contentsline {chapter}{کتاب‌نامه}{58}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{63}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{66}{appendix*.6}%
 \contentsfinish 
