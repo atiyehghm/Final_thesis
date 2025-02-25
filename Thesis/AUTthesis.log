@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  29 JAN 2025 09:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.20)  9 FEB 2025 11:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2301,8 +2301,14 @@ File: en-logo.png Graphic file (type bmp)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 012D4F5B367CEFA457AA0EBCB6BAB873;9450.
+
+Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `AUTthesis.out':
+(rerunfilecheck)             Before: 012D4F5B367CEFA457AA0EBCB6BAB873;9450
+(rerunfilecheck)             After:  09AA36F640F27C78090302B17D9AB8CA;9569.
  ) 
 Here is how much of TeX's memory you used:
  20491 strings out of 476683
